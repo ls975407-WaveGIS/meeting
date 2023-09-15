@@ -2,8 +2,8 @@
 
 ## 單元測試 JUnit+Mockito
 
-+ [基本用法1](https://github.com/ls975407-WaveGIS/self-note/blob/master/note/002-002%20SpringBoot%20JUnit%20Test.md)
-+ [基本用法2](https://github.com/ls975407-WaveGIS/self-note/blob/master/note/005%20%E6%B8%AC%E8%A9%A6%E5%B7%A5%E5%85%B7Mockito%E7%94%A8%E6%B3%95.md)
++ [基本用法1](基本用法1.md)
++ [基本用法2](基本用法2.md)
 + [範例程式](https://github.com/WaveGIS-Co/kaohsiungWrb/blob/master/src/test/java/com/wavegis/kaohsiungwrb/service/TestDeviceService.java)
 
 ## 服務優化: 顯示錯誤
